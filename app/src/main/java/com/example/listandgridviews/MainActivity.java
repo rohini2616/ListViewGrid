@@ -8,7 +8,7 @@ import android.widget.GridView;
 import android.widget.ListView;
 
 public class MainActivity extends AppCompatActivity {
- private Button buttonList;
+ private Button buttonList;gopg
  private Button buttonGrid;
  private ListView listView;
  private GridView gridView;
